@@ -1,4 +1,4 @@
-// A useal interface is a class that contains list of fields and methods headers
+// A usual interface is a class that contains list of fields and methods headers
 // this is more like a contract that you declare inside a class
 // so that every other derived class that implements your interface will have to implement all of your fields and methods
 // In Dart, there are no explicit interfaces like in some other languages
